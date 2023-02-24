@@ -1,5 +1,5 @@
 {
-  "name": "realtime-chat-supabase-react",
+  "name": "chat",
   "version": "0.2.0",
   "private": false,
   "dependencies": {
